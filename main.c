@@ -9,8 +9,8 @@ int welcomeMesge();
 
 int main()
 {
-    // printhellow();
-    // welcomeMesge();
+    printhellow();
+     welcomeMesge();
     ifelsewithswitch();
 
     return 0;
