@@ -2,7 +2,7 @@
 #include "ofelsedemowithswitch.c"
 #include "sample.c"
 #include "firstvscodedemo.c"
-
+int ifelsewithswitch();
 int ifelsewithswitch();
 int printhellow();
 int welcomeMesge();
